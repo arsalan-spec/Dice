@@ -1,0 +1,10 @@
+Ein kleines Dice-Projekt zur Simulation eines Würfelwurfs mit zufälliger Ausgabe.
+
+🎲 Dice Project
+Dieses Projekt ist eine einfache Dice-Simulation.
+Bei jedem Ausführen wird eine zufällige Zahl erzeugt, die einen Würfelwurf darstellt.
+
+Funktionen:
+• Zufällige Zahlengenerierung (1–6)
+• Einfache und übersichtliche Logik
+• Ideal zum Üben von Grundlagen
